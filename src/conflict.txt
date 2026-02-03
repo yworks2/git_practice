@@ -6,6 +6,6 @@ app.version=1.0.0
 db.host=localhost
 db.port=5432
 
-feature.flag=false
+feature.flag=true
 
 log.level=INFO
