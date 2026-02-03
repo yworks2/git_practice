@@ -1,6 +1,1 @@
-a
-<<<<<<< HEAD
-master
-=======
-feature
->>>>>>> refs/heads/feature
+MASTER
