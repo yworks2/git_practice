@@ -5,6 +5,6 @@ public class Main {
 		System.out.println("これは Git の差分確認用のテストです。");
 		System.out.println("差分テストの追加行です。");
 		System.out.println("差分テストの追加行2つ目です。");
-
+		System.out.println("差分テストの追加行3つ目です。");
 	}
 }
