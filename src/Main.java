@@ -6,5 +6,6 @@ public class Main {
 		System.out.println("差分テストの追加行です。");
 		System.out.println("差分テストの追加行2つ目です。");
 		System.out.println("差分テストの追加行3つ目です。");
+		System.out.println("これはpractice2ブランチでの変更です。");
 	}
 }
