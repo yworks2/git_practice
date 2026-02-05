@@ -7,5 +7,6 @@ public class Main {
 		System.out.println("差分テストの追加行2つ目です。");
 		System.out.println("差分テストの追加行3つ目です。");
 		System.out.println("これはmaster、practice2での変更です。");
+		System.out.println("競合の確認2。");
 	}
 }
